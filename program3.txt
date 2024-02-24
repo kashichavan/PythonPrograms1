@@ -1,0 +1,88 @@
+IF Elif  Statement 
+--------------------
+
+WAP to check whether a given value is positive or negative or neutral. if positive, display the positive with value.or negative display the negative with value or else display the neutral with value.
+
+
+WAP to find out the greatest of three numbers, and display the greatest number.
+
+
+Write a program to check whether a given number is divisible by 3 and 5. if the number divisible by 3 print fizz, if the number divisible by 5 print ‘bizz’ if it is divisible by both then print fizzbuzz
+
+
+WAP to find out the relationship between two values and display the relationship.
+
+
+Write a program to check if a given number is one digit or two digit or three digit for more than 3 digit, if one digit displays the one digit value, if two digit displays the two digit value and so on..
+
+
+WAP to check whether a given character is an alphabet or ascii number or special character or invalid. if alphabet, display the alphabet with character.or elif ascii number display the ascii number with character,or else display the special character with character.
+
+
+Write a program to accept any number from 1-5 and display that number in word form.
+
+
+WAP to check whether the given input character is uppercase, lowercase, number or a special symbol. To display the message.
+
+
+WAP to check whether a given character is uppercase or lowercase or special character. if uppercase, convert to lower case.or elif lowercase, convert to uppercase or else display the previous,given,next characters and display it.
+
+
+WAP to check whether the given character is in lowercase or uppercase, numeric or special characters. Display the what type of case.
+
+
+WAP to check whether a given percentage is which grade and display grade.
+note.(first grade, second grade, third grade, fail)
+
+
+WAP to perform arithmetic operations depends on a user choice. 
+
+
+WAP to check a given number is one digit or two digit or three digits for more than 3 digits.
+
+
+WAP to check whether a given collection is a list or tuple or set or character string.
+if list, append the new value in middle of the list,
+if tuple, append the new value in starting of the tuple
+if set, append the new value in set, or else append a new key as given character and values as an ascii value with character.
+
+
+WAP to check whether a given value is a int or float or string or other, if int, given value division by 5 and display the quotient,
+if float, perform the bitwise or operation with 15, if string, extract for last position value and store it in first positions of the string, else store the value in the list and display the result.
+
+
+WAP to check whether the given character is uppercase or ascii number. 
+If uppercase, to convert to lowercase and concat the next character of a given character or if ascii number, that convert to ascii value and ascii value is subtract by 6, finally value is converted to ascii character display it or else  print invalid input.
+NESTED IF STATEMENT
+
+
+WAP  to check whether the given number is even or odd,
+if even, to check whether given value is divisible by 4 or not, if divisible, to display the square of the number,
+if number is odd, to check whether given number is divisible by 3 and 7 or not,
+If the condition is satisfied, display the area of the circle. 
+
+
+WAP to check whether the given input alphabet is present in a collection or not if it is present in the collection, check whether that alphabet is uppercase or lowercase if it is uppercase converted into lowercase and vice versa, if the alphabet not present in the collection prints invalid.
+
+
+WAP to check whether the given input character is present in a given string collection or not.
+if it is present, check whether the collection length is even or odd,
+if it is even print even indexed items of that collection using slicing,  
+if it is odd, print odd indexed item of that collection, 
+if the character not present in the collection just print that collection,
+
+
+WAP to check whether a given character is alphabet or not, 
+if alphabet to check the given alphabet character is  uppercase or not, 
+if uppercase, to check vowel or not, 
+if vowel to display the next character of given character, 
+if lowercase, to convert to uppercase and display the character, 
+or else the given character is not an alphabet,then to check if the given character is an ascii number or special character, and display the result.
+
+
+WAP to check whether given value is non primitive or  primitive, 
+If value is non primitive to check, it is mutable or immutable,
+If mutable, to check if a given value is list or not, 
+if list, replace the middle element into a new element, or dict to extract all the values from the dict, or set to extract the first and last element of the set,
+If immutable, to convert into mutable and to perform swapping  of first and last elements. Or else if primitive to perform the bitwise not operation.
+
